@@ -1,2 +1,4 @@
 trace 
 trace
+telling lie
+telling true
